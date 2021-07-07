@@ -87,4 +87,6 @@ Copy the contents of https://github.com/vilasvarghese/devops-exercise-1-infra-vi
 	aws update-kubeconfig  
 	chmod 777 ~/.kube/config  
 	
+	Update <my dockerhub repo> in deploy-tomcat.yaml file in the home directory of the repo.
+	
 15.Execute the job.
